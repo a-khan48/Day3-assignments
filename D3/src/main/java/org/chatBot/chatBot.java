@@ -61,7 +61,7 @@ public class chatBot {
         System.out.println("B. JavaScript");
         System.out.println("C. HTML");
         System.out.println("D. CSS");
-        System.out.println("Type in your answer(A or B or C or D or E) ");
+        System.out.println("Type in your answer(A, B, C, D) ");
         String answer = scanner.nextLine();
 
         while (true) {
